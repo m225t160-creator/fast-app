@@ -1,2 +1,2 @@
-# fast-app
+# first-app
 初めてのアプリ
